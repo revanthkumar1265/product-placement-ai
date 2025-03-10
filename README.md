@@ -1,2 +1,2 @@
-# product-placement-ai
-product-placement-ai
+# product placement
+product placement
